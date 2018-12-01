@@ -1,6 +1,6 @@
 # Netflix
 Made Netflix as semester assignment 
-link : 
+link : https://alisterbaroi.github.io/Netflix/
 
 index - logo, signup button, nav bar, pricing table, slider 
 
