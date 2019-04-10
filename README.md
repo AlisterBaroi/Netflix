@@ -1,23 +1,17 @@
 # Netflix
-Made Netflix as semester assignment 
-link : https://alisterbaroi.github.io/Netflix/
 
-index - logo, signup button, nav bar, pricing table, slider 
+### This project is made by me, Alister Animesh Baroi, who reserves the coryright of this project.
 
-signup - pricing table, registration form
+This project is made as a semester assignment.
 
-login - login form
+### Languages and frameworks that are user in this project:
 
-download - download button
+| Languages  | Frameworks | Libraries    |    Plugins     | 
+| :--------: | :--------: | :----------: |  :----------:  | 
+| HTML       |            |              |                | 
+| CSS        | Bootstrap  | Font Awesome |                | 
+| JavaScript |   JQuery   |              | Telephone Input| 
 
-about - paragraphs, copyright notice
+jquery plugin : https://www.jqueryscript.net/form/jQuery-International-Telephone-Input-With-Flags-Dial-Codes.html
 
-
-------used-----
-jquery
-jquery plugins : https://www.jqueryscript.net/form/jQuery-International-Telephone-Input-With-Flags-Dial-Codes.html
-bootstrap
-slider
-nav bar
-logo
  
